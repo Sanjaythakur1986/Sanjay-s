@@ -1,0 +1,10 @@
+
+class Automation{
+
+public static void main(String[] args){
+
+System.Out.Println("Hi This is new git code");
+
+}
+
+}
